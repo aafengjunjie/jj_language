@@ -1,29 +1,24 @@
-# language
+# VUE 自动百度翻译，优先本地语言库
 
-## Project setup
+## 这是一个标准的vue-cli 3项目，安装一下依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 使用教程
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+https://blog.csdn.net/oqqHeHe1234567d89/article/details/84862732
 ```
 
-### Run your tests
+## 在线体验地址
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+http://120.78.91.42:3000/
+http://120.78.91.42:3000/?to=en
+http://120.78.91.42:3000/?to=th
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 注意
+```
+这个仅仅提供大家学习使用，如果长期要用翻译库（由于百度翻译是付费的，超额后可能会造成，无法自动翻译），请详细阅读使用教程。
+```
+
